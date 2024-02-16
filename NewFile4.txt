@@ -1,1 +1,2 @@
-NewFile1
+NewFile4
+Modified in Branch1
